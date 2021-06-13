@@ -2,6 +2,10 @@
 This is my first project through The Learning People's front end developers course.
 ## Description
 This is my Personal Portfolio where i will display my course/personal/client projects for future clients, employers and anyone who wants to just view my work.
+## Home
+
+## About Me
+My 'about me' page is to give the user a brief description of who i am, what i look like and my front end development journey.
 ### Wireframe
 - [Home page Desktop](https://github.com/Mikhail2786/personal-portfolio/blob/master/wireframes/home-page-desktop.png)
 - [Home page Mobile and Tablet](https://github.com/Mikhail2786/personal-portfolio/blob/master/wireframes/home-page-mobile-and-tablet.png)
