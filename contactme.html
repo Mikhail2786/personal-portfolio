@@ -11,7 +11,7 @@
     <title>Contact Me</title>
 </head>
 <body>
-    <header>  
+    <header>
         <!--nav bar code from youtuber Traversy Media. To be amended-->
         <nav class="navbar navbar-expand-lg bg-warning navbar-light">
             <!--This is where my navbar is-->
@@ -39,8 +39,44 @@
             </div>
         </nav>
     </header>
-    <div>
-        <h1>Contact Me</h1>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <h1>Contact Me</h1>
+                <div>
+                    <p>
+                        Do You Like what you see? <br>
+                        Would you like to work on a project?
+                    </p>
+                    <P>
+                        London, United Kingdon<br>
+                        Mikhail86@icloud.com
+                    </p>
+                </div>
+            </div>
+            <div class="col">
+                <form>
+                    <div class="row">
+                        <div class="col-md-6">
+                          <input type="text" class="form-control" placeholder="Full name" aria-label="Full name">
+                        </div>
+                        <div class="col-md-6">
+                          <input type="email" class="form-control" placeholder="Email" aria-label="Email">
+                        </div>
+                        <br><br>
+                      </div>
+                      <div class="col-md-12">
+                        <input type="text" class="form-control" id="inputSubject" placeholder="Subject"></textarea>
+                      </div>    
+                    <br>
+                    <div class="col-12">
+                        <textarea type="text" class="form-control" id="inputMessage" placeholder="Message"></textarea>
+                    </div>
+                    <br> 
+                </form>
+            </div>  
+            </div>
+        </div>
     </div>
     <!-- JavaScript Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
