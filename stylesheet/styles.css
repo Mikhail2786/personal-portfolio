@@ -8,3 +8,8 @@ body{
         align-items: center;
     }
     
+    footer ul {
+        display: flex;
+        justify-content: center;
+        list-style-type: none;
+    }
