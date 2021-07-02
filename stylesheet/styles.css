@@ -25,5 +25,6 @@ h2{
 
 a:hover{
     color: rgb(2, 178, 247) !important;
-
+    font-weight: bold;
+    font-style: oblique
 }
