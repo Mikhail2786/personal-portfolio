@@ -1,3 +1,10 @@
 body{
     font-family: 'Raleway', sans-serif;
     }
+
+    #content-wrapper {
+        min-height: 70vh;
+        display: flex;
+        align-items: center;
+    }
+    
