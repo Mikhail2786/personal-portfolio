@@ -13,3 +13,8 @@ body{
         justify-content: center;
         list-style-type: none;
     }
+
+    h2{
+        position: relative; bottom: 175px;
+     }
+     
