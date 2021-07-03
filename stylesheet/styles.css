@@ -2,24 +2,6 @@ body{
     font-family: 'Raleway', sans-serif;
 }
 
-#content-wrapper {
-    min-height: 70vh;
-    display: flex;
-    align-items: center;
-}
-    
-footer ul {
-    display: flex;
-    justify-content: center;
-    list-style-type: none;
-}
-
-h2{
-    /*position: relative; bottom: 175px;*/
-    text-transform: uppercase;
-    letter-spacing: 0.1rem;
-}
-
 .nav-custom{
     text-transform: uppercase;
     letter-spacing: 0.1rem;
@@ -29,4 +11,22 @@ a:hover{
     color: rgb(2, 178, 247) !important;
     font-weight: bold;
     font-style: oblique
+}
+
+h2{
+    position: relative; bottom: 175px;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+}
+
+#content-wrapper {
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+}
+
+footer ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
 }
