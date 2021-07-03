@@ -19,6 +19,11 @@ h2{
     letter-spacing: 0.1rem;
 }
 
+h3{
+    text-align: center;
+    font-size: 2.5rem;   
+}
+
 #content-wrapper {
     min-height: 70vh;
     display: flex;
