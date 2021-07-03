@@ -24,6 +24,16 @@ h3{
     font-size: 2.5rem;   
 }
 
+span{
+    color: #02b2f7;
+
+}
+
+.brackets{
+    color: #02b2f7; 
+
+}
+
 #content-wrapper {
     min-height: 70vh;
     display: flex;
