@@ -15,7 +15,9 @@ footer ul {
 }
 
 h2{
-    position: relative; bottom: 175px;
+    /*position: relative; bottom: 175px;*/
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
 }
 
 .nav-custom{
