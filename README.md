@@ -8,7 +8,7 @@ This is my Personal Portfolio where i will display my course/personal/client pro
 My 'about me' page is to give the user a brief description of who i am, what i look like and my front end development journey.
 
 ## Contact Me
-This pahe is designed so any future clinets are able to get in touch but provided their name, email, subject matter and a short message. My contact details are also displayed should theey wish to choose another method to get in touch. 
+This page is designed so any future clients are able to get in touch but provided their name, email, subject matter and a short message. My contact details are also displayed should they wish to choose another method to get in touch. 
 
 ### Wireframe
 
