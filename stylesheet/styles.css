@@ -6,6 +6,7 @@ body{
     font-family: 'Raleway', sans-serif;
 }
 
+
 /* Header */
 .nav-custom{
     text-transform: uppercase;
@@ -18,24 +19,20 @@ a:hover{
     font-style: oblique
 }
 
+
 /* Main content */
 h2{
-    position: relative; bottom: 175px;
+    position: relative;
     text-transform: uppercase;
-    letter-spacing: 0.1rem;
-    margin-left: 10px;
     margin-left: 40px;
-
-}
-
-.page-header{
-
+    letter-spacing: 0.1em;
 }
 
 h3{
     text-align: center;
     font-size: 2.5rem;   
 }
+
 
 span{
     color: var(--portfolio-color);
@@ -52,9 +49,14 @@ span{
     display: flex;
     align-items: center;
 
-/* Footer */
+}
+/* commit */
+#selfie{
+    position: relative;
+    top: 10%;
 }
 
+/* Footer */    
 footer ul {
     display: flex;
     justify-content: center;
