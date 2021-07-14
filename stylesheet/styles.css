@@ -8,6 +8,11 @@ body{
 
 
 /* Header */
+.nav-logo{
+    width: 215px;
+    height: 71px;
+}
+
 .nav-custom{
     text-transform: uppercase;
     letter-spacing: 0.1rem;
