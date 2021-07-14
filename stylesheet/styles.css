@@ -18,6 +18,10 @@ body{
     letter-spacing: 0.1rem;
 }
 
+.navbar-container{
+    flex-wrap: nowrap;
+}
+
 a:hover{
     color: var(--portfolio-color) !important;
     font-weight: bold;
