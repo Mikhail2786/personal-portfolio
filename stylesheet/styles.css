@@ -18,8 +18,8 @@ body{
     letter-spacing: 0.1rem;
 }
 
-.navbar-container{
-    flex-wrap: nowrap;
+.custom-container{
+    flex: none;
 }
 
 a:hover{
