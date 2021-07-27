@@ -37,6 +37,13 @@ h2{
     letter-spacing: 0.1em;
 }
 
+#home-header{
+    position: relative;
+    text-transform: uppercase;
+    margin-left: 40px;
+    letter-spacing: 0.1em;
+}
+
 h3{
     text-align: center;
     font-size: 2.5rem;   
