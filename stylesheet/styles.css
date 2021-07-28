@@ -6,11 +6,13 @@ body{
     font-family: 'Raleway', sans-serif;
 }
 
-
 /* Header */
 .nav-logo{
     width: 215px;
     height: 71px;
+}
+#navbarNav{
+    flex-grow: unset;
 }
 
 .nav-custom{
@@ -66,10 +68,14 @@ span{
 
 }
 
-/* commit */
+#image-div{
+    height: auto;
+    width: auto;
+}
+
 #selfie{
     position: relative;
-    width: 100%;
+    width: 100%;    
 }
 
 /* Footer */    
