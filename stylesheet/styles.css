@@ -30,7 +30,6 @@ a:hover{
     font-style: oblique
 }
 
-
 /* Main content */
 h2{
     position: relative;
@@ -47,14 +46,16 @@ h2{
     letter-spacing: 0.1em;
 }
 
-.hero-image{
-    background-image: url(../images/austin-poon-JO_S6ewBqAk-unsplash.jpg);
-    background-repeat: no-repeat;
-    height: 25vh;
-    width: 100vw;
-    background-size: cover;
-    background-position: center;
-} 
+@media (min-width: 1000px) {
+    .hero-image{
+        background-image: url(../images/austin-poon-JO_S6ewBqAk-unsplash.jpg);
+        background-repeat: no-repeat;
+        height: 25vh;
+        width: 100vw;
+        background-size: cover;
+        background-position: center;
+    }
+}
 
 #main-logo{
     width: 100%;
