@@ -48,9 +48,9 @@ h2{
 }
 
 .hero-image{
-    background-image: url(../images/background-image-1.jpg);
+    background-image: url(../images/austin-poon-JO_S6ewBqAk-unsplash.jpg);
     background-repeat: no-repeat;
-    height: 20vh;
+    height: 25vh;
     width: 100vw;
     background-size: cover;
     background-position: center;
@@ -92,11 +92,12 @@ span{
     position: absolute;
     width: 100%;
     height: 60px;
+    
 }
 
 @media (min-width: 760px) {
     .custom-footer{
-        bottom: 0;
+        bottom: 0px;
     }
 }
  
