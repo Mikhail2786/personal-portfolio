@@ -53,7 +53,7 @@ h2{
     height: 20vh;
     width: 100vw;
     background-size: cover;
-    
+    background-position: center;
 } 
 
 #main-logo{
