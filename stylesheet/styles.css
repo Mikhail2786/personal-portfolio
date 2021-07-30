@@ -78,7 +78,12 @@ span{
     width: 100%;    
 }
 
-/* Footer */    
+/* Footer */   
+.custom-footer{
+    position: absolute;
+}
+
+ 
 footer ul {
     display: flex;
     justify-content: center;
