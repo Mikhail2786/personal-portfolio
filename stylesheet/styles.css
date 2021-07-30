@@ -51,6 +51,7 @@ h2{
     background-image: url(../images/background-image-1.jpg);
     background-repeat: no-repeat;
     height: 20vh;
+    width: 100vw;
     
 } 
 
