@@ -47,6 +47,11 @@ h2{
     letter-spacing: 0.1em;
 }
 
+.hero-image{
+    background-image: url(../images/background-image-1.jpg);
+    
+} 
+
 #main-logo{
     width: 100%;
     height: 53vh;
