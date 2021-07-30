@@ -85,6 +85,11 @@ span{
     height: 60px;
 }
 
+@media (min-width: 760px) {
+    .custom-footer{
+        bottom: 0;
+    }
+}
  
 footer ul {
     display: flex;
