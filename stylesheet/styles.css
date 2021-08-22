@@ -107,6 +107,11 @@ span{
     }
 }
 
+@media (max-width: 800px) and (min-width: 760px){
+    #main-container{
+        margin-top: 118px;
+        }
+}
 /* Footer */   
 .custom-footer{
     position: absolute;
