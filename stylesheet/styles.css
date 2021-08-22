@@ -101,6 +101,10 @@ span{
     .messageBox{
         border-color: var(--portfolio-color);
     }
+    .custom-Button{
+        background-color: #02b2f7;
+        border-color: #02b2f7;
+    }
 }
 
 /* Footer */   
