@@ -93,6 +93,9 @@ span{
     .custom-form{
         margin-top: 10px;
     }
+    #inputMessage{
+        height: 150px
+    }
 }
 
 /* Footer */   
