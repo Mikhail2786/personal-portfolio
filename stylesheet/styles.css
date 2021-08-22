@@ -88,13 +88,18 @@ span{
     width: 100%;    
 }
 
-
+/*contact me page */
 @media (max-width: 600px){
     .custom-form{
         margin-top: 10px;
     }
+
     #inputMessage{
         height: 150px
+    }
+
+    .messageBox{
+        border-color: var(--portfolio-color);
     }
 }
 
