@@ -88,6 +88,13 @@ span{
     width: 100%;    
 }
 
+
+@media (max-width: 600px){
+    .custom-form{
+        margin-top: 10px;
+    }
+}
+
 /* Footer */   
 .custom-footer{
     position: absolute;
