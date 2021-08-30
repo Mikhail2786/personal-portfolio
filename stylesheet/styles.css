@@ -130,6 +130,10 @@ span{
     #inputMessage{
 		height: 13rem;
     }
+    #contactInfo{
+        position: absolute;
+        bottom: 80px;
+}
 }   
  
 /* Footer */   
