@@ -110,6 +110,10 @@ span{
         border-color: #02b2f7;
     }
 }
+
+@media (min-width: 760px) and (max-width: 1025px){
+    
+}
  
 /* Footer */   
 .custom-footer{
