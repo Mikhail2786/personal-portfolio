@@ -127,6 +127,9 @@ span{
         left: 140px;
 		right: 140px;
     }
+    #inputMessage{
+		height: 13rem;
+    }
 }   
  
 /* Footer */   
