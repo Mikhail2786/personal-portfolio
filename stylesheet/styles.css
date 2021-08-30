@@ -124,6 +124,8 @@ span{
     form{
 		padding-top: 10rem;
         position: absolute;
+        left: 140px;
+		right: 140px;
     }
 }   
  
