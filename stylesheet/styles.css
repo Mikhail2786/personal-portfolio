@@ -118,6 +118,9 @@ span{
     #contactWrapper{
 		margin-top: 60px;	
 	}
+    #main-container{
+		padding-top: 35px;
+    }
 }
  
 /* Footer */   
