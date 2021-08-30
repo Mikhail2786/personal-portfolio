@@ -121,7 +121,11 @@ span{
     #main-container{
 		padding-top: 35px;
     }
-}
+    form{
+		padding-top: 10rem;
+        position: absolute;
+    }
+}   
  
 /* Footer */   
 .custom-footer{
