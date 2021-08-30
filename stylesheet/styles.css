@@ -90,6 +90,10 @@ span{
 
 /*contact me page */
 @media (max-width: 600px){
+    #contactMe{ 
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
     .custom-form{
         margin-top: 10px;
     }
@@ -106,12 +110,7 @@ span{
         border-color: #02b2f7;
     }
 }
-
-@media (max-width: 800px) and (min-width: 760px){
-    #main-container{
-        margin-top: 118px;
-        }
-}
+ 
 /* Footer */   
 .custom-footer{
     position: absolute;
