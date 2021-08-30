@@ -115,7 +115,9 @@ span{
     #contactMe{
 		margin-left: 60px;
 	}
-
+    #contactWrapper{
+		margin-top: 60px;	
+	}
 }
  
 /* Footer */   
