@@ -133,15 +133,13 @@ span{
     #contactInfo{
         position: absolute;
         bottom: 80px;
-        position: absolute;
-        padding-right: 15rem;
-
     }
 }   
 
 @media (min-width: 1026px){
     form{
         padding-top: 6rem;
+        padding-right: 10rem;
     }
 }
  
