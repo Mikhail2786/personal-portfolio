@@ -141,6 +141,10 @@ span{
         padding-top: 6rem;
         padding-right: 10rem;
     }
+    #contactInfo{
+        position: absolute;
+        bottom: -95px;
+    }
 }
  
 /* Footer */   
