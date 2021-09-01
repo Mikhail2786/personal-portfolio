@@ -133,8 +133,14 @@ span{
     #contactInfo{
         position: absolute;
         bottom: 80px;
-}
+    }
 }   
+
+@media (min-width: 1026px){
+    form{
+        padding-top: 6rem;
+    }
+}
  
 /* Footer */   
 .custom-footer{
