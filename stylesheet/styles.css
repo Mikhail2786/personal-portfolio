@@ -133,6 +133,9 @@ span{
     #contactInfo{
         position: absolute;
         bottom: 80px;
+        position: absolute;
+        padding-right: 15rem;
+
     }
 }   
 
