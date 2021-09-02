@@ -145,6 +145,9 @@ span{
         position: absolute;
         bottom: -95px;
     }
+    #inputMessage{
+        height: 15rem;
+    }
 }
  
 /* Footer */   
