@@ -36,6 +36,7 @@ h2{
     text-transform: uppercase;
     margin-left: 40px;
     letter-spacing: 0.1em;
+    margin-top: 28px;
 }
 
 /* Home Page */
@@ -162,14 +163,16 @@ span{
     
 }
 
-@media (min-width: 760px) {
+@media (min-width: 760px){
     .custom-footer{
         bottom: -250px;
     }
 }
  
-footer ul {
+footer ul.footerList{
     display: flex;
     justify-content: center;
     list-style-type: none;
+    margin-top: 10px;
 }
+
