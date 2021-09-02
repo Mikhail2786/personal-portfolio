@@ -148,6 +148,10 @@ span{
     #inputMessage{
         height: 15rem;
     }
+    #nfo{
+        padding-left: 2rem;
+        padding-bottom: 2rem;
+    }
 }
  
 /* Footer */   
