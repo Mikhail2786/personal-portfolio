@@ -7,6 +7,12 @@ body{
 }
 
 /* Header */
+.custom-navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+}
 .nav-logo{
     width: 215px;
     height: 71px;
