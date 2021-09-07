@@ -64,6 +64,10 @@ h2{
     }
 }
 
+@media (min-width: 1050px) {
+    .hero-image{margin-top: 97px;
+    } 
+}
 #main-logo{
     width: 100%;
     height: 70vh;
