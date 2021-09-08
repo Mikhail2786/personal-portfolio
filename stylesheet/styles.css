@@ -36,6 +36,16 @@ a:hover{
     font-style: oblique
 }
 
+@media (min-width: 1000px) {
+    .hero-image{
+        background-image: url(../images/austin-poon-JO_S6ewBqAk-unsplash.jpg);
+        background-repeat: no-repeat;
+        height: 25vh;
+        width: 100vw;
+        background-size: cover;
+        background-position: center;
+    }
+}
 /* Main content */
 h2{
     position: relative;
@@ -53,27 +63,16 @@ h2{
     letter-spacing: 0.1em;
 }
 
-@media (min-width: 1000px) {
-    .hero-image{
-        background-image: url(../images/austin-poon-JO_S6ewBqAk-unsplash.jpg);
-        background-repeat: no-repeat;
-        height: 25vh;
-        width: 100vw;
-        background-size: cover;
-        background-position: center;
-    }
-}
-
 @media (min-width: 1050px) {
     .hero-image{margin-top: 97px;
     } 
 }
-#main-logo{
+    #main-logo{
     width: 100%;
     height: 70vh;
 }
 
-h3{
+    h3{
     text-align: center;
     font-size: 2.5rem;   
 }
@@ -119,6 +118,9 @@ span{
     .custom-Button{
         background-color: #02b2f7;
         border-color: #02b2f7;
+    }
+    .info{
+        margin-bottom: 52px;
     }
 }
 
