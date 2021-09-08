@@ -124,6 +124,10 @@ span{
         line-height: 2em;
         padding-top: 23px;
     }
+    /*for all pages*/
+    h2{
+        margin-top: 94px;
+    }
 }
 
 @media (min-width: 760px) and (max-width: 1025px){
