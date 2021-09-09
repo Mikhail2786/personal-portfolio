@@ -125,6 +125,11 @@ span{
         padding-top: 23px;
     }
     /*for all pages*/
+    .nav-logo{
+        width: 148px;
+        height: 42px;
+    }
+
     h2{
         margin-top: 94px;
     }
