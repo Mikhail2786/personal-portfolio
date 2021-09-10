@@ -26,13 +26,13 @@ body{
     flex-grow: unset;
 }
 
-.nav-custom{
-    text-transform: uppercase;
-    letter-spacing: 0.1rem;
-}
-
 .custom-container{
     flex: none;
+}
+
+a:link{
+    text-transform:capitalize;
+
 }
 
 a:hover{
@@ -43,7 +43,9 @@ a:hover{
 }
 
 a:active{
-    color: var(--portfolio-color) !important;    
+    color: black;
+    font-family:monospace
+    
 }
 
 @media (min-width: 1000px) {
