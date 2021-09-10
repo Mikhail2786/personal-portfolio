@@ -1,5 +1,5 @@
 :root{
-    --portfolio-color: #02b2f7
+    --portfolio-color: #00ACEE
 }
 
 body{
@@ -31,9 +31,13 @@ body{
 }
 
 a:hover{
-    color: var(--portfolio-color) !important;
+    color: var(--portfolio-color), #00ACEE !important;
     font-weight: bold;
     font-style: oblique
+}
+
+a:active{
+    color: var(--portfolio-color), #00ACEE !important;    
 }
 
 @media (min-width: 1000px) {
@@ -79,12 +83,12 @@ h2{
 
 
 span{
-    color: var(--portfolio-color);
+    color: var(--portfolio-color), #00ACEE;
 
 }
 
 .brackets{
-    color: var(--portfolio-color); 
+    color: var(--portfolio-color), #00ACEE; 
 
 }
 
@@ -99,6 +103,10 @@ span{
 }
 
 /*contact me page */
+.custom-Button{
+    margin-top: 0.6rem;
+}
+
 @media (max-width: 600px){
     #contactMe{ 
         padding-left: 1rem;
@@ -113,11 +121,11 @@ span{
     }
 
     .messageBox{
-        border-color: var(--portfolio-color);
+        border-color: var(--portfolio-color), #00ACEE;
     }
     .custom-Button{
-        background-color: #02b2f7;
-        border-color: #02b2f7;
+        background-color: #00ACEE;
+        border-color: #00ACEE;
     }
     .info{
         margin-bottom: 52px;
