@@ -38,13 +38,8 @@ a:link{
 a:hover{
     color: var(--portfolio-color) !important;
     font-weight: bold;
-    font-style: oblique
-    
-}
-
-a:active{
-    color: black;
-    font-family:monospace
+    font-style: oblique;
+    text-transform:uppercase;
     
 }
 
