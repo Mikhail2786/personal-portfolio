@@ -31,13 +31,14 @@ body{
 }
 
 a:hover{
-    color: var(--portfolio-color), #00ACEE !important;
+    color: var(--portfolio-color) !important;
     font-weight: bold;
     font-style: oblique
+    
 }
 
 a:active{
-    color: var(--portfolio-color), #00ACEE !important;    
+    color: var(--portfolio-color) !important;    
 }
 
 @media (min-width: 1000px) {
@@ -92,6 +93,12 @@ span{
 
 }
 
+/* About Me Page*/
+#contactLink{
+    text-decoration: none;
+    color: black;
+}
+
 #image-div{
     height: auto;
     width: auto;
@@ -121,7 +128,7 @@ span{
     }
 
     .messageBox{
-        border-color: var(--portfolio-color), #00ACEE;
+        border-color: var(--portfolio-color);
     }
     .custom-Button{
         background-color: #00ACEE;
