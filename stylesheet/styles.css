@@ -99,6 +99,13 @@ span{
     color: black;
 }
 
+#contactLink:hover{
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+
+}
+
 #image-div{
     height: auto;
     width: auto;
