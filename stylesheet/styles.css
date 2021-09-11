@@ -39,8 +39,7 @@ a:hover{
     color: var(--portfolio-color) !important;
     font-weight: bold;
     font-style: oblique;
-    text-transform:uppercase;
-    
+    text-transform:uppercase; 
 }
 
 @media (min-width: 1000px) {
@@ -52,7 +51,12 @@ a:hover{
         background-size: cover;
         background-position: center;
     }
+
+    .custom-navbar{
+        padding-right: 28px;
+    }
 }
+
 /* Main content */
 h2{
     position: relative;
