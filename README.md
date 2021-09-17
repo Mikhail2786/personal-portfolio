@@ -115,4 +115,15 @@ Please see each links below.
 5. I navigated to the *source* section, from the dropdown menu i clicked on *branch* then *save*.
 
 **Repository Link**:
+
 https://mikhail2786.github.io/personal-portfolio/ 
+
+**To run this project locally pls follow the following steps**:
+
+1. Log into *github*
+2. Search and click on *Mikhail2786/personal-portfolio*
+3. Click on the code and copy *https://guthub.com/Mikhail2786/personal-portfolio.git*
+4. Open your *terminal*
+4. Change your *working directory* to a location you want the cloned directory to he placed
+5. Type `git clone https://guthub.com/Mikhail2786/personal-portfolio.git` into your terminal
+
