@@ -33,10 +33,10 @@ My *Contact me page* is designed so any potential clients/collaborators are able
  
 ## Technology
 - Balsmiq 
-    I have used Balsamiq to create my mockups to help me get a visual understanding of what i want my portfolio to look like across allpages. 
+    - I have used Balsamiq to create my mockups to help me get a visual understanding of what i want my portfolio to look like across allpages. 
 
 - Wireframe
-    My Mockups(wireframes) were done using Balsmiq for a simple look so i can focus more on the layout and design rather than the finer details such as colour, font and specific images. I have done a mockup for each screen size the responsive look for my website.  
+    - My Mockups(wireframes) were done using Balsmiq for a simple look so i can focus more on the layout and design rather than the finer details such as colour, font and specific images. I have done a mockup for each screen size the responsive look for my website.  
 
 Please see each links below.       
 
