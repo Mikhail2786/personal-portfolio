@@ -27,13 +27,20 @@ My *Contact me page* is designed so any potential clients/collaborators are able
 
 - As a user i want the *ABOUT ME page* to tell me who the creator is as well as their journey. I also would like to see a image of the creator to help me get an understanding of who they are. 
 
-As a user i want to see the *PORTFOLIO page* display the work of the creator along with a description and, be able visit it websites/applications via a link once the creator and created such work. 
+- As a user i want to see the *PORTFOLIO page* display the work of the creator along with a description and, be able visit it websites/applications via a link once the creator and created such work. 
 
-As a potential client or collaborator i want to be able to contact the creator either by email which should be visible on the  *CONTACT ME page* or to contact the creator via a contact form. 
+- As a potential client or collaborator i want to be able to contact the creator either by email which should be visible on the  *CONTACT ME page* or to contact the creator via a contact form. 
  
-## Technology     
+## Technology
+- Balsmiq 
+I have used Balsamiq to create my mockups to help me get a visual understanding of what i want my portfolio to look like across allpages. 
 
-### Wireframe
+- Wireframe
+My Mockups(wireframes) were done using Balsmiq for a simple look so i can focus more on the layout and design rather than the finer details such as colour, font and specific images. I have done a mockup for each screen size the responsive look for my website.  
+
+Please see each links below.       
+
+### Wireframes
 
 - [Home page Desktop](https://github.com/Mikhail2786/personal-portfolio/blob/master/wireframes/home-page-desktop.png)
 - [Home page Mobile and Tablet](https://github.com/Mikhail2786/personal-portfolio/blob/master/wireframes/home-page-mobile-and-tablet.png)
@@ -43,3 +50,4 @@ As a potential client or collaborator i want to be able to contact the creator e
 - [Contact page Mobile and Tablet](https://github.com/Mikhail2786/personal-portfolio/blob/master/wireframes/contact-page-mobile-and-tablet.png)
 - [Portfolio Page Desktop](https://github.com/Mikhail2786/personal-portfolio/blob/master/wireframes/portfolio-page-desktop.png)
 - [Portfolio page Mobile and Table](https://github.com/Mikhail2786/personal-portfolio/blob/master/wireframes/portfolio-page-mobile-and-tabletpng.png)
+
