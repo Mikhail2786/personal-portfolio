@@ -10,7 +10,7 @@ My *Home page* will be the first page the users sees so it is important I draw t
 ### About Me
 My *About me page* is to give the user a brief description of who i am, what i look like and my front end development journey.
 
-### Portfolio
+### Portfolio
 My *Portfolio page* will be where the user comes to view my projects. There will be an image of the websites, a brief description and a link that will take them to each project in a new page.
 
 ### Contact Me
