@@ -33,14 +33,14 @@ My *Contact me page* is designed so any potential clients/collaborators are able
  
 ## Technology
 - Balsmiq 
-I have used Balsamiq to create my mockups to help me get a visual understanding of what i want my portfolio to look like across allpages. 
+    I have used Balsamiq to create my mockups to help me get a visual understanding of what i want my portfolio to look like across allpages. 
 
 - Wireframe
-My Mockups(wireframes) were done using Balsmiq for a simple look so i can focus more on the layout and design rather than the finer details such as colour, font and specific images. I have done a mockup for each screen size the responsive look for my website.  
+    My Mockups(wireframes) were done using Balsmiq for a simple look so i can focus more on the layout and design rather than the finer details such as colour, font and specific images. I have done a mockup for each screen size the responsive look for my website.  
 
 Please see each links below.       
 
-### Wireframes
+**Wireframes**
 
 - [Home page Desktop](https://github.com/Mikhail2786/personal-portfolio/blob/master/wireframes/home-page-desktop.png)
 - [Home page Mobile and Tablet](https://github.com/Mikhail2786/personal-portfolio/blob/master/wireframes/home-page-mobile-and-tablet.png)
@@ -51,3 +51,23 @@ Please see each links below.
 - [Portfolio Page Desktop](https://github.com/Mikhail2786/personal-portfolio/blob/master/wireframes/portfolio-page-desktop.png)
 - [Portfolio page Mobile and Table](https://github.com/Mikhail2786/personal-portfolio/blob/master/wireframes/portfolio-page-mobile-and-tabletpng.png)
 
+- Visual Studio Code
+I have used VS Code as my text editor to create my HTML, CSS and README files along with the terminal on VS Code to commit regular changes to my GitHub repository. 
+
+- HTML5
+I have used HTML5 to structure my content for my portfolio
+
+- Bootstrap v5
+I have used bootstrap for a responsive grid system. Bootstrap has helped structure my webpages with positioning before adding CSS3. 
+
+- CSS3
+I have used CSS3 adding custom styles to html tags, classes and id’s to bring the content on my portfolio to life. 
+
+.Google Font
+I have used google font which was downloaded to my mad to give my portfolio a more modern stylish look. 
+
+.Git
+I have used the Git version control system to consistently add and commit changes.  
+
+.GitHub 
+I have used GitHub to push and store all committed changes to my portfolio via Git and i have used Github pages to deploy my website. 
