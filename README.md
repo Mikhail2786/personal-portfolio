@@ -80,7 +80,22 @@ Please see each links below.
 **Each page was test and customised individually for most parts**. 
 
 - HTML Validation
-    - I used [W3C Markup Validation Service] http://validator.w3.org to test my HTML code. 
+    - I used [W3C HTML Validation service](http://validator.w3.org) to test my HTML code. 
 
 - CSS Validation 
-    - I used [W£C CSS Validation Service] https://jigsaw.w3.org/css-validator/ to test my CSS code
+    - I used [W£C CSS Validation Service](https://jigsaw.w3.org/css-validator/) to test my CSS code
+
+## Deployment
+
+**To deploy my project, I used GitHub pages with the following steps**  :
+
+1. Created GitHub account
+2. Loaded my terminal via Visual Studio Codes.
+3. `git init` to Initialise git 
+4. `git add [file name]` to add files to staging area.
+5. `git status` to double check what is in staging area. 
+6. `git commit -m “initial commit”` for first commit to project.
+7. Created my first GitHub repository “personal-portfolio”.
+8. Copied the url link from my GitHub and paste it into Visual Studio Codes terminal.
+    as follows: `git remote add origin https://github.com/Mikhail2786/personal-portfolio.git`
+9. `git push -u origin master` for the local master branch to be push to the remote origin master branch
