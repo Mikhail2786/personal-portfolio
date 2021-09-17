@@ -87,7 +87,7 @@ Please see each links below.
 
 ## Deployment
 
-**To deploy my project, I used GitHub pages with the following steps**  :
+**To deploy my project, I used GitHub pages with the following steps**:
 
 1. Created GitHub account
 2. Loaded my terminal via Visual Studio Codes.
@@ -99,3 +99,20 @@ Please see each links below.
 8. Copied the url link from my GitHub and paste it into Visual Studio Codes terminal.
     as follows: `git remote add origin https://github.com/Mikhail2786/personal-portfolio.git`
 9. `git push -u origin master` for the local master branch to be push to the remote origin master branch
+
+**I committed regular changes with the following steps**:
+
+1. `git add [file name]` to add files to staging area
+2. `git commit -m “message”` to commit files
+3. `git push` to push changes to GitHub remote repository. 
+
+**I deployed my project with the following steps**:
+
+1. Logged onto *GitHub*
+2. I clicked on to *https://github.com/Mikhail2786/personal-portfolio*
+3. I click *settings*
+4. I click *pages*
+5. I navigated to the *source* section, from the dropdown menu i clicked on *branch* then *save*.
+
+**Repository Link**:
+https://mikhail2786.github.io/personal-portfolio/
