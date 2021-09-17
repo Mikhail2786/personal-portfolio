@@ -127,3 +127,20 @@ https://mikhail2786.github.io/personal-portfolio/
 4. Change your *working directory* to a location you want the cloned directory to he placed
 5. Type `git clone https://guthub.com/Mikhail2786/personal-portfolio.git` into your terminal
 
+## Acknowledgment 
+
+Sunny Hebbar - My Learning People mentor who has helped me ever step of the way. 
+
+Chris Kimpton - My mentor who keeps me motivated. 
+
+Sophie Wickham - My previous Learning people mentor who still advises me from time to time. 
+
+Johan Dindaine - My mentor who gave me feedback on my first ever website and README file.
+
+### Media
+
+Head shots and logo taken and created by Leon lewis - Instagram [@sweetslewis](https://instagram.com/sweetslewis?utm_medium=copy_link)
+
+All icons are from [Flaticon](http://flaticon.com) 
+
+My hero image is from [Unsplash](http://unsplash.com)
