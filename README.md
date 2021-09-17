@@ -52,22 +52,35 @@ Please see each links below.
 - [Portfolio page Mobile and Table](https://github.com/Mikhail2786/personal-portfolio/blob/master/wireframes/portfolio-page-mobile-and-tabletpng.png)
 
 - Visual Studio Code
-I have used VS Code as my text editor to create my HTML, CSS and README files along with the terminal on VS Code to commit regular changes to my GitHub repository. 
+    - I have used VS Code as my text editor to create my HTML, CSS and README files along with the terminal on VS Code to commit regular changes to my GitHub repository. 
 
 - HTML5
-I have used HTML5 to structure my content for my portfolio
+    - I have used HTML5 to structure my content for my portfolio
 
 - Bootstrap v5
-I have used bootstrap for a responsive grid system. Bootstrap has helped structure my webpages with positioning before adding CSS3. 
+    - I have used bootstrap for a responsive grid system. Bootstrap has helped structure my webpages with positioning before adding CSS3. 
 
 - CSS3
-I have used CSS3 adding custom styles to html tags, classes and id’s to bring the content on my portfolio to life. 
+    - I have used CSS3 to add custom styles to html tags, classes and id’s to bring the content on my portfolio to life. 
 
-.Google Font
-I have used google font which was downloaded to my mad to give my portfolio a more modern stylish look. 
+- Google Font
+    - I have used google font which was downloaded to my macbook to give my portfolio a more modern stylish look. 
 
-.Git
-I have used the Git version control system to consistently add and commit changes.  
+- Git
+    - I have used Git version control system to consistently add and commit changes.  
 
-.GitHub 
-I have used GitHub to push and store all committed changes to my portfolio via Git and i have used Github pages to deploy my website. 
+- GitHub 
+    - I have used GitHub to push and store all my committed changes to my portfolio via Git and i have used Github pages to deploy my website. 
+
+## Testing
+
+- Chrome DevTools
+    - I used DevTools responsive testing, to help test positioning if elements, widths and heights of images and elements. I also constantly tested my website at different break points such as mobile, tablet and desktop to give me a better understanding of how my site would look on each screens and to make necessary changes that would help the users experience. 
+
+**Each page was test and customised individually for most parts**. 
+
+- HTML Validation
+    - I used [W3C Markup Validation Service] http://validator.w3.org to test my HTML code. 
+
+- CSS Validation 
+    - I used [W£C CSS Validation Service] https://jigsaw.w3.org/css-validator/ to test my CSS code
