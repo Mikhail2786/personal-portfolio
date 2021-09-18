@@ -46,7 +46,6 @@ a:hover{
     color: grey !important;
     font-weight: bold;
     font-style: oblique;
-    text-transform:uppercase !important;
 }
 
 @media (min-width: 1000px) {
