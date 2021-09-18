@@ -42,6 +42,13 @@ a:hover{
     text-transform:uppercase; 
 }
 
+.active{
+    color: grey !important;
+    font-weight: bold;
+    font-style: oblique;
+    text-transform:uppercase !important;
+}
+
 @media (min-width: 1000px) {
     .hero-image{
         background-image: url(../images/austin-poon-JO_S6ewBqAk-unsplash.jpg);
