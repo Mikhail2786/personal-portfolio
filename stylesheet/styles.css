@@ -123,6 +123,11 @@ h2{
     margin-top: 0.6rem;
 }
 
+#staticMap{
+    background-image: url(../images/staticmap.png);
+    background-size: cover;
+}
+
 @media (max-width: 600px){
     #contactMe{ 
         padding-left: 1rem;
