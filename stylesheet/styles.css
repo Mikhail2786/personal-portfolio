@@ -205,9 +205,10 @@ h2{
         padding-left: 2rem;
         padding-bottom: 2rem;
     }
-    #staticMao{
+    #staticMap{
         height: 591px;
         margin: -472px 22px 80px;
+        height: 500px;
     }
     #info{
         height: 127px;
