@@ -205,6 +205,14 @@ h2{
         padding-left: 2rem;
         padding-bottom: 2rem;
     }
+    #staticMao{
+        height: 591px;
+        margin-top: -485px;
+    }
+    #info{
+        height: 127px;
+        width: 210px;
+    }
 }
  
 /* Footer */   
