@@ -121,6 +121,8 @@ h2{
 /*contact me page */
 .custom-Button{
     margin-top: 0.6rem;
+    background-color: #00ACEE;
+    border-color: #00ACEE
 }
 
 #staticMap{
@@ -144,10 +146,7 @@ h2{
     .messageBox{
         border-color: var(--portfolio-color);
     }
-    .custom-Button{
-        background-color: #00ACEE;
-        border-color: #00ACEE;
-    }
+    
     .info{
         margin-bottom: 52px;
         line-height: 2em;
