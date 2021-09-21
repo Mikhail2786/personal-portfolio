@@ -193,6 +193,7 @@ h2{
     form{
         padding-top: 6rem;
         padding-right: 10rem;
+        width: 600px;
     }
     #contactInfo{
         position: absolute;
@@ -214,6 +215,7 @@ h2{
         height: 127px;
         width: 210px;
         margin-top: 335px;
+        margin-left: -120px;
         background-color: white;
         opacity: 62%;
     }
