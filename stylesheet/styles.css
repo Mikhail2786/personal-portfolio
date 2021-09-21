@@ -192,7 +192,7 @@ h2{
 @media (min-width: 1026px){
     form{
         padding-top: 6rem;
-        padding-right: 10rem;
+        padding-right: 8rem;
         width: 600px;
     }
     #contactInfo{
@@ -214,7 +214,7 @@ h2{
     #info{
         height: 127px;
         width: 210px;
-        margin-top: 335px;
+        margin-top: 304px;
         margin-left: -120px;
         background-color: white;
         opacity: 70%;
