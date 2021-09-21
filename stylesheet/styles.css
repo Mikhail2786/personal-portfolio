@@ -125,6 +125,11 @@ h2{
     border-color: #00ACEE
 }
 
+.messageBox{
+    border-color: var(--portfolio-color);
+}
+
+
 #staticMap{
     background-image: url(../images/staticmap.png);
     background-size: cover;
@@ -143,10 +148,6 @@ h2{
         height: 150px
     }
 
-    .messageBox{
-        border-color: var(--portfolio-color);
-    }
-    
     .info{
         margin-bottom: 52px;
         line-height: 2em;
