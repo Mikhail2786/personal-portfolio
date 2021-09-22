@@ -49,7 +49,7 @@ a:hover{
     text-transform:uppercase !important;
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1024px) {
     .hero-image{
         background-image: url(../images/austin-poon-JO_S6ewBqAk-unsplash.jpg);
         background-repeat: no-repeat;
