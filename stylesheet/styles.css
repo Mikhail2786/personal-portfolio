@@ -62,6 +62,11 @@ a:hover{
     .custom-navbar{
         padding-right: 28px;
     }
+
+    #info{
+        background-color: white;
+        opacity: 70%;
+    }
 }
 
 /* Main content */
@@ -128,7 +133,6 @@ h2{
 .messageBox{
     border-color: var(--portfolio-color);
 }
-
 
 #staticMap{
     background-image: url(../images/staticmap.png);
@@ -216,8 +220,6 @@ h2{
         width: 210px;
         margin-top: 304px;
         margin-left: -120px;
-        background-color: white;
-        opacity: 70%;
     }
 }
  
