@@ -196,6 +196,12 @@ h2{
     }
 }   
 
+@media (min-width: 1024px){
+    #info{
+        
+    }   
+}
+
 @media (min-width: 1026px){
     form{
         padding-top: 6rem;
