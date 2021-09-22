@@ -66,6 +66,9 @@ a:hover{
     #info{
         background-color: white;
         opacity: 70%;
+        border-style: solid;
+        border-color: #00ACEE;
+        border-width: thin;
     }
 }
 
