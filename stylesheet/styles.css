@@ -197,6 +197,11 @@ h2{
 }   
 
 @media (min-width: 1024px){
+    form{
+        left: 74px;
+        right: 514px
+    }
+
     #info{
         margin-top: 309px;
         height: 156px;
