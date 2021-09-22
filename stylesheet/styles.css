@@ -205,6 +205,9 @@ h2{
     
     #staticMap{
         height: 618px;
+        margin-top: -459px;
+        margin-left: 40px;
+        margin-right: 30px;
     }
 }
 
