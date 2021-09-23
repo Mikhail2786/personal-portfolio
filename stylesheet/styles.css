@@ -71,6 +71,9 @@ a:hover{
         border-width: thin;
     }
 
+    form{
+        opacity: 88%;
+    }
 }
 
 /* Main content */
