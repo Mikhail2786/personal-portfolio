@@ -229,10 +229,7 @@ h2{
     #inputMessage{
         height: 15rem;
     }
-    #nfo{
-        padding-left: 2rem;
-        padding-bottom: 2rem;
-    }
+    
     #staticMap{
         height: 591px;
         margin: -472px 22px 80px;
