@@ -164,6 +164,14 @@ h2{
     }
 }
 
+@media (min-width: 765px) and (max-width:770px){
+    #staticMap{
+        
+        
+
+    }
+}
+
 @media (min-width: 765px){
     #info{
         background-color: white;
