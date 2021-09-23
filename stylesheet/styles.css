@@ -178,6 +178,10 @@ h2{
         width: 218px;
         margin-left: 85px;
     }
+
+    h2{
+        
+    }
 }
 
 @media (min-width: 765px){
