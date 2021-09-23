@@ -184,8 +184,9 @@ h2{
     }
 
     form{
-        
-    }
+        left: 74px !important;
+        right: 300px !important;
+    } 
 }
 
 @media (min-width: 765px){
