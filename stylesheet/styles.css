@@ -62,19 +62,8 @@ a:hover{
     .custom-navbar{
         padding-right: 28px;
     }
-
-    #info{
-        background-color: white;
-        opacity: 70%;
-        border-style: solid;
-        border-color: #00ACEE;
-        border-width: thin;
-    }
-
-    form{
-        opacity: 88%;
-    }
 }
+
 
 /* Main content */
 h2{
@@ -172,6 +161,20 @@ h2{
 
     h2{
         margin-top: 94px;
+    }
+}
+
+@media (min-width: 765px){
+    #info{
+        background-color: white;
+        opacity: 70%;
+        border-style: solid;
+        border-color: #00ACEE;      
+        border-width: thin;
+    }
+
+    form{
+        opacity: 88%;
     }
 }
 
