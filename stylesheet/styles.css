@@ -182,6 +182,10 @@ h2{
     h2{
         margin-top: 90px;
     }
+
+    form{
+        
+    }
 }
 
 @media (min-width: 765px){
