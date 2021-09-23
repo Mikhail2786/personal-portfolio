@@ -168,7 +168,8 @@ h2{
     #staticMap{
         height: 543px;
         margin-top: -457px;
-        
+        margin-left: 40px;
+        margin-right: 30px;
 
     }
 }
