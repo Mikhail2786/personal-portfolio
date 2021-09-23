@@ -229,7 +229,7 @@ h2{
     #inputMessage{
         height: 15rem;
     }
-    
+
     #staticMap{
         height: 591px;
         margin: -472px 22px 80px;
@@ -237,7 +237,6 @@ h2{
     }
     #info{
         height: 127px;
-        width: 210px;
         margin-top: 304px;
         margin-left: -120px;
     }
