@@ -122,6 +122,12 @@ h1{
     #aboutme-container{
         flex-direction: column;
     }
+    #contactme-container{
+        flex-direction: column;
+    }
+    #portfolio-container{
+        flex-direction: column;
+    }
 }
 
 /* Home Page */
