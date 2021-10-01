@@ -118,6 +118,10 @@ h1{
     #home-container{
         flex-direction: row;
     }
+    
+    #aboutme-container{
+        flex-direction: column;
+    }
 }
 
 /* Home Page */
