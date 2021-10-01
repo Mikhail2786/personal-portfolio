@@ -83,21 +83,18 @@ h2{
 }
 
 @media (min-width: 1050px) {
-    /* delete codew
-    .hero-image{margin-top: 97px;
-    } 
-    */
-}
+
     #main-logo{
     width: 100%;
     height: 70vh;
-}
+    }
 
     h3{
     text-align: center;
     font-size: 2.5rem;   
+    }
 }
- 
+
 /* About Me Page*/
 #contactLink{
     text-decoration: none;
