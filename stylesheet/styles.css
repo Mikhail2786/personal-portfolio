@@ -63,6 +63,25 @@ a:hover{
 
     .custom-navbar{
         padding-right: 28px;
+        Height: 100px;
+    }
+
+    form{
+        left: 74px;
+        right: 514px;
+    }
+
+    #info{
+        margin-top: 309px;
+        height: 156px;
+        width: 218px
+    }
+    
+    #staticMap{
+        height: 618px;
+        margin-top: -459px;
+        margin-left: 40px;
+        margin-right: 30px;
     }
 }
 
@@ -232,26 +251,6 @@ main{
         bottom: 80px;
     }
 }   
-
-@media (min-width: 1024px){
-    form{
-        left: 74px;
-        right: 514px;
-    }
-
-    #info{
-        margin-top: 309px;
-        height: 156px;
-        width: 218px
-    }
-    
-    #staticMap{
-        height: 618px;
-        margin-top: -459px;
-        margin-left: 40px;
-        margin-right: 30px;
-    }
-}
 
 @media (min-width: 1026px){
     form{
