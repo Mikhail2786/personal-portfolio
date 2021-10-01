@@ -51,6 +51,8 @@ a:hover{
     text-transform:uppercase !important;
 }
 
+/* Main content */
+
 @media (min-width: 1024px) {
     .hero-image{
         background-image: url(../images/austin-poon-JO_S6ewBqAk-unsplash.jpg);
@@ -89,13 +91,16 @@ a:hover{
     }
 }
 
-/* Main content */
 h1{
     position: relative;
     text-transform: uppercase;
     margin-left: 40px;
     letter-spacing: 0.1em;
     margin-top: 28px;
+}
+
+#home-container{
+    flex-direction: column;
 }
 
 /* Home Page */
