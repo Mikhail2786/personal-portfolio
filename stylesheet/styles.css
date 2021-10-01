@@ -107,6 +107,10 @@ h1{
     flex-direction: column;
 }
 
+#contactme-container{
+    flex-direction: column;
+}
+
 /* Home Page */
 #home-header{
     position: relative;
