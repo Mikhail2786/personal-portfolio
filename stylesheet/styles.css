@@ -103,6 +103,10 @@ h1{
     flex-direction: column;
 }
 
+#aboutme-container{
+    flex-direction: column;
+}
+
 /* Home Page */
 #home-header{
     position: relative;
