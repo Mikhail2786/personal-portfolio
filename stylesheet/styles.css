@@ -120,13 +120,13 @@ h1{
     }
     
     #aboutme-container{
-        flex-direction: column;
+        flex-direction: row;
     }
     #contactme-container{
-        flex-direction: column;
+        flex-direction: row;
     }
     #portfolio-container{
-        flex-direction: column;
+        flex-direction: row;
     }
 }
 
