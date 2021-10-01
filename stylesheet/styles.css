@@ -110,6 +110,9 @@ h1{
 #contactme-container{
     flex-direction: column;
 }
+#portfolio-container{
+    flex-direction: column;
+}
 
 /* Home Page */
 #home-header{
