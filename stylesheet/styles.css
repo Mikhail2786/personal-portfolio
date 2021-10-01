@@ -96,6 +96,11 @@ h2{
     }
 }
 
+/* Main content*/
+main{
+    margin-top: 70px;
+}
+
 /* About Me Page*/
 #contactLink{
     text-decoration: none;
