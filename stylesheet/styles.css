@@ -114,6 +114,12 @@ h1{
     flex-direction: column;
 }
 
+@media (min-width: 768px){
+    #home-container{
+        flex-direction: row;
+    }
+}
+
 /* Home Page */
 #home-header{
     position: relative;
