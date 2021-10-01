@@ -66,6 +66,10 @@ a:hover{
         Height: 100px;
     }
 
+    main{
+        margin-top: 100px !important;  
+    }
+
     form{
         left: 74px;
         right: 514px;
@@ -84,7 +88,6 @@ a:hover{
         margin-right: 30px;
     }
 }
-
 
 /* Main content */
 h1{
