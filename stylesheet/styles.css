@@ -142,6 +142,10 @@ h1{
     letter-spacing: 0.1em;
 }
 
+#main-logo{
+    
+}
+
 @media (min-width: 1050px) {
     #main-logo{
     width: 100%;
