@@ -53,6 +53,10 @@ a:hover{
 
 /* Main content */
 
+main{
+    margin-top: 70px;
+}
+
 @media (min-width: 1024px) {
     .hero-image{
         background-image: url(../images/austin-poon-JO_S6ewBqAk-unsplash.jpg);
@@ -111,16 +115,22 @@ h1{
     flex-direction: column;
 }
 
-
 @media (min-width: 768px){
     #home-container{
         flex-direction: row;
+        align-items: center;
+	    justify-content: space-between;
+        
     }
     #aboutme-container{
         flex-direction: row;
+        align-items: center;
+	    justify-content: space-between;
     }
     #contactme-container{
         flex-direction: row;
+        align-items: center;
+	    justify-content: space-between;
     }
 }
 
@@ -144,10 +154,6 @@ h1{
     }
 }
 
-/* Main content*/
-main{
-    margin-top: 70px;
-}
 
 /* About Me Page*/
 #contactLink{
@@ -312,7 +318,6 @@ main{
 /* Footer */   
 .custom-footer{
     margin-top: auto;
-    
 }
 
 @media (min-width: 760px){
