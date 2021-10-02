@@ -104,28 +104,22 @@ h1{
 }
 
 #aboutme-container{
-    flex-direction: column;
+    flex-direction: column;    
 }
 
 #contactme-container{
     flex-direction: column;
 }
-#portfolio-container{
-    flex-direction: column;
-}
+
 
 @media (min-width: 768px){
     #home-container{
         flex-direction: row;
     }
-    
     #aboutme-container{
         flex-direction: row;
     }
     #contactme-container{
-        flex-direction: row;
-    }
-    #portfolio-container{
         flex-direction: row;
     }
 }
