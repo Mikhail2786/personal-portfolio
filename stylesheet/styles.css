@@ -228,6 +228,11 @@ h1{
         height: 156px;
         width: 218px;
         margin-left: 85px;
+        background-color: white;
+        opacity: 70%;
+        border-style: solid;
+        border-color: #00ACEE;      
+        border-width: thin;
     }
 
     h1{
