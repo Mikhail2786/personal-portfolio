@@ -263,9 +263,6 @@ h1{
     }
 }
 
-@media (min-width: 765px){
-
-
 @media (min-width: 760px) and (max-width: 1025px){
     #contactMe{
 		margin-left: 60px;
