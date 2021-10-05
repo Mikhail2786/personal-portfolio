@@ -234,7 +234,7 @@ h1{
     }
 }
 
-@media (min-width: 768px) and (max-width:770px){
+@media (min-width: 768px){
     #staticMap{
         height: 543px;
         margin-top: -457px;
