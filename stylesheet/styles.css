@@ -115,25 +115,6 @@ h1{
     flex-direction: column;
 }
 
-@media (min-width: 768px){
-    #home-container{
-        flex-direction: row;
-        align-items: center;
-	    justify-content: space-between;
-        
-    }
-    #aboutme-container{
-        flex-direction: row;
-        align-items: center;
-	    justify-content: space-between;
-    }
-    #contactme-container{
-        flex-direction: row;
-        align-items: center;
-	    justify-content: space-between;
-    }
-}
-
 /* Home Page */
 #home-header{
     position: relative;
@@ -257,6 +238,23 @@ h1{
         left: 74px !important;
         right: 300px !important;
     } 
+    /* Main Content */
+    #home-container{
+        flex-direction: row;
+        align-items: center;
+	    justify-content: space-between;
+        
+    }
+    #aboutme-container{
+        flex-direction: row;
+        align-items: center;
+	    justify-content: space-between;
+    }
+    #contactme-container{
+        flex-direction: row;
+        align-items: center;
+	    justify-content: space-between;
+    }
 }
 
 @media (min-width: 765px){
