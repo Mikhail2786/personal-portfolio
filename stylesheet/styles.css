@@ -11,6 +11,7 @@ body{
     min-height: 100vh;
 }
 
+
 /* Header */
 .custom-navbar{
     position: fixed;
@@ -50,6 +51,7 @@ a:hover{
     font-style: oblique;
     text-transform:uppercase !important;
 }
+
 
 /* Main content */
 
@@ -161,7 +163,6 @@ h1{
     text-decoration: underline;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-
 }
 
 #image-div{
@@ -254,6 +255,7 @@ h1{
         left: 74px !important;
         right: 300px !important;
         opacity: 88%;
+        width: 40%;
     } 
     /* Main Content */
     #home-container{
