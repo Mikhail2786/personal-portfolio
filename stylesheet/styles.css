@@ -89,7 +89,7 @@ h1{
     }
 
     #aboutme-container{
-        
+        flex-direction: row !important;
     }
 
     form{
