@@ -25,6 +25,7 @@ body{
     width: 215px;
     height: 71px;
 }
+
 #navbarNav{
     flex-grow: unset;
 }
@@ -257,6 +258,7 @@ h1{
         opacity: 88%;
         width: 40%;
     } 
+
     /* Main Content */
     #home-container{
         flex-direction: row;
@@ -313,6 +315,7 @@ h1{
         position: absolute;
         bottom: -95px;
     }
+    
     #inputMessage{
         height: 15rem;
     }
