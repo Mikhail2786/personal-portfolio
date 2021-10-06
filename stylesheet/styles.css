@@ -194,6 +194,10 @@ h1{
     border-color: var(--portfolio-color);
 }
 
+#form-container{
+    justify-content: space-evenly;
+}
+
 #staticMap{
     background-image: url(../images/staticmap.png);
     background-size: cover;
@@ -217,6 +221,8 @@ h1{
         line-height: 2em;
         padding-top: 23px;
     }
+
+
     /*for all pages*/
     .nav-logo{
         width: 148px;
@@ -308,14 +314,13 @@ h1{
         padding-top: 6rem;
         padding-right: 8rem;
         width: 600px;
-        
     }
 
     #contactInfo{
         position: absolute;
         bottom: -95px;
     }
-    
+
     #inputMessage{
         height: 15rem;
     }
