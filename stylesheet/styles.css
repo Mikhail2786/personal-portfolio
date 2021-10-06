@@ -72,7 +72,9 @@ main{
         Height: 100px;
     }
 
-    h1{}
+    h1{
+        text-align: left;
+    }
 
     main{
         margin-top: 100px !important;  
