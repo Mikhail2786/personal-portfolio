@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <!-- Bootstarp 5 CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous"/>
+    <!-- This is my own style sheet -->
+    <link rel="stylesheet" href="stylesheet/styles.css"/>
+    <title>Contact Me</title>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <a href="#mainContent" class="visually-hidden-focusable">Skip to "Contact Me"</a>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">Navbar</a>
+              <!--navbar-->
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Features</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Pricing</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link disabled">Disabled</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+    </header>
+    <!-- End of header--> 
+  
+    <!-- Main Content -->
+    <main>
+        <div class="hero-image"></div>
+        <section id="contactMe">
+            <div class="content-wrapper" id="contactWrapper">
+                <div class="row">
+                    <div class=col-12>
+                        <h1 class="mainContent">Contact&nbsp;Me</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="container" id="main-container">
+                <div class="row" id="contactme-container">
+                    <div class="col-12" id="question">
+                        <div>
+                            <p>
+                                Do You Like what you see? <br>
+                                Would you like to work on a project?
+                            </p>
+                        </div>
+                    </div>
+                        <div class="col-md-6">
+                            <form method="POST">
+                                <div class="row">
+                                    <div class="col-md-6 custom-form">
+                                        <input type="text" class="form-control messageBox" placeholder="Full name" aria-label="Full name" required/>
+                                    </div>
+                                    <div class="col-md-6 custom-form">
+                                        <input type="email" class="form-control messageBox" placeholder="Email" aria-label="Email" required/>
+                                    </div>
+                                    <br><br>
+                                    <div class="col-md-12 custom-form">
+                                        <input type="text" class="form-control messageBox" id="inputSubject" placeholder="Subject" required/>
+                                    </div>    
+                                    <br><br>
+                                    <div class="col-12 custom-form">
+                                        <textarea class="form-control messageBox" id="inputMessage" placeholder="Message"></textarea>
+                                    </div>
+                                    <br/><br/><br/>
+                                    <div class="custom-form">
+                                        <input type="submit" class="btn btn-primary btn-md custom-Button" value="Send"/>
+                                    </div>
+                                    <br/>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="col-md-6" id="info">
+                            <img src="images/location-icon.svg" alt="Location icon">
+                            <P>London, United Kingdom</p>
+                            <img src="images/email-icon.svg" alt="Email Icon">
+                            <p>Mikhail86@icloud.com</p> 
+                        </div>
+                </div>
+            </div>
+        </section>
+        <div id="staticMap">
+                       
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-light custom-footer" id="uniqueFooter">    
+        <div class="container">
+            <div class="row">
+                <ul class="ms-auto footerList">
+                    <li>
+                        Mikhail Stewart
+                    </li>
+                    <li class="nav-item">
+                        <a href="https://www.linkedin.com/in/mikhail-stewart-648a4a89/" class="nav-link" target="_blank"><img src="images/linkedin-icon2.svg" class="linkedin" alt="Linkedin Icon"></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link"><img src="images/insta-icon.svg" class="insta" alt="Instagram Icon"></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link" target="_blank"><img src="images/twitter-icon.svg" class="twitter" alt="Twitter Icon"></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="https://github.com/Mikhail2786" class="nav-link" target="_blank"><img src="images/github-icon2.svg" class="gitHub" alt="GitHub Icon"></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    <!-- End of Footer -->
+
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+</body>
+</html>
