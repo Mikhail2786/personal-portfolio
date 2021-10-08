@@ -77,7 +77,7 @@ Please see each links below.
 - Chrome DevTools
     - I used DevTools responsive testing, to help test positioning if elements, widths and heights of images and elements. I also constantly tested my website at different break points such as mobile, tablet and desktop to give me a better understanding of how my site would look on each screens and to make necessary changes that would help the users experience. 
 
-**Each page was test and customised individually for most parts**. 
+**Each page was tested and customised individually for most parts**. 
 
 - HTML Validation
     - I used [W3C HTML Validation service](http://validator.w3.org) to test my HTML code. 
