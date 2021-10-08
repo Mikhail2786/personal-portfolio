@@ -30,6 +30,10 @@ body{
     flex-grow: unset;
 }
 
+.nav-container{
+    background-color: #F8F9FA;
+}
+
 .custom-container{
     flex: none;
 }
