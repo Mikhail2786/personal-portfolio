@@ -85,6 +85,8 @@ Please see each links below.
 - CSS Validation 
     - I used [W£C CSS Validation Service](https://jigsaw.w3.org/css-validator/) to test my CSS code
 
+My portfolio was tested across all major browsers compatible with macOS.
+
 ## Deployment
 
 **To deploy my project, I used GitHub pages with the following steps**:
